@@ -14,18 +14,18 @@ Este projeto foi desenvolvido utilizando a plataforma de ensino baseada em tecno
 
 ## Recursos
 
-- Inicialização e configuração do display SSD1306;
-- Controle total de pixels (acender/apagar); 
-- Desenho de formas geométricas (linhas, retângulos, triângulos, círculos e arcos);  
-- Suporte a fontes customizadas e exibição de texto.    
+- Gravação de áudio
+- Exibição da onda de áudio no domínio do tempo
+- Exibição da onda de áudio no domínio da frequência, através de FFT
 
 ---
 
 ## Dependências
 
-Antes de usar a biblioteca, certifique-se de ter o SDK do Raspberry Pi Pico instalado. O projeto depende das seguintes bibliotecas padrão:
+Antes de executar o projetp, certifique-se de ter o SDK do Raspberry Pi Pico instalado. O projeto depende das seguintes bibliotecas padrão:
 
-- `hardware/i2c.h` (para comunicação I2C)
+- `hardware/i2c.h`
+- `hardware/adc.h`
 - `stdint.h`, `stdlib.h`, `string.h`
 
 ---
