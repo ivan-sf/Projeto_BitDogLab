@@ -19,3 +19,7 @@ Este projeto foi desenvolvido utilizando a plataforma de ensino baseada em tecno
 - Exibição da onda de áudio no domínio da frequência, através de FFT
 
 ---
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b9293ab2-ef0b-46b4-9065-545c11e2caf5" alt="menu" style="width:25%;"/> <img src="https://github.com/user-attachments/assets/e8e99df6-fff0-4221-abbf-19126dc5adb6" alt="tempo" style="width:25%;"/> <img src="https://github.com/user-attachments/assets/4d2f8256-0ab8-4bdd-bf0b-84c8201eb049" alt="fft" style="width:25%;"/>
+</div>
