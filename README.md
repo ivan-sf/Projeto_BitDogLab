@@ -28,6 +28,6 @@ Este projeto foi desenvolvido utilizando a plataforma de ensino baseada em tecno
 
 - Display: Exibição do Menu ([SSD1306](https://github.com/ivan-sf/SSD1306-Library-PICO-SDK))
 
-- Joystick: Interação Com o Menu ([Joystick](https://github.com/ivan-sf/SSD1306-Library-PICO-SDK](https://github.com/AntonioJunior2222/BitDogLab-Joystick-Matriz_Led-VIRTUS_CC))
+- Joystick: Interação Com o Menu ([Joystick](https://github.com/AntonioJunior2222/BitDogLab-Joystick-Matriz_Led-VIRTUS_CC))
 
 - Microfone: Gravação do áudio ([Microfone](https://github.com/smalljooj/bitdoglab_mic_VIRTUS_CC))
